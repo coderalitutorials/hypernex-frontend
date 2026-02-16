@@ -1026,7 +1026,7 @@ import React from "react";
 import { useParams, Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Calendar, Clock, ChevronRight } from "lucide-react";
-import Footer from "./footer";
+import Footer from "./Footer";
 import { useGetBlogBySlugQuery } from "../features/blogs/blogsApi";
 
 // Markdown support
