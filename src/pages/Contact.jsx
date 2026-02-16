@@ -360,7 +360,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, Send, Loader2 } from "lucide-react";
-import Footer from "./footer";
+import Footer from "./Footer";
 import { useCreateContactMutation } from "../features/contacts/contactApi"; // first API
 import {useSendEmailMutation} from "../email/emailApi"; // second API
 
