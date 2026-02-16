@@ -1030,7 +1030,7 @@ import React, { useState, useMemo } from "react";
 import { motion } from "framer-motion";
 import { Calendar, Clock } from "lucide-react";
 import { Link } from "react-router-dom";
-import Footer from "./footer";
+import Footer from "./Footer";
 import { useGetBlogsQuery } from "../features/blogs/blogsApi";
 import { useGetCategoriesQuery } from "../features/categories/categoriesApi";
 import { useSubscribeMutation } from "../features/subscriber/subscriberApi";
