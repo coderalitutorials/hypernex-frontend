@@ -134,7 +134,7 @@ import { motion } from "framer-motion";
 import { CheckCircle2 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { useGetOffersQuery } from "../features/offers/offersApi";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 const Offers = () => {
   const navigate = useNavigate();
