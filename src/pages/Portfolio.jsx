@@ -818,7 +818,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { CheckCircle2 } from 'lucide-react';
-import Footer from "./footer";
+import Footer from "./Footer";
 
 const Portfolio = () => {
 
