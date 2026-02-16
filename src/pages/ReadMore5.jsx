@@ -196,7 +196,7 @@ import {
   ArrowRight,
   Palette
 } from 'lucide-react';
-import Footer from './footer'; 
+import Footer from './Footer'; 
 
 const ReadMore5 = () => {
   const [activeFAQ, setActiveFAQ] = useState(null);
