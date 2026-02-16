@@ -145,7 +145,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // Components
 import Navbar from './components/Navbar';
-import Footer from './pages/footer'; 
+import Footer from './pages/Footer'; 
 
 // Home Page Sections
 import Hero from './pages/Hero';
