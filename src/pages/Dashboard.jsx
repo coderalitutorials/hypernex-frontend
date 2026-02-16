@@ -469,7 +469,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { useSelector } from "react-redux";
 import Navbar from "../components/Navbar";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 import DashboardBlogs from "../features/blogs/DashboardBlogs";
 import DashboardOffers from "../features/offers/Offerstable";
