@@ -219,7 +219,7 @@ import {
   ArrowRight,
   Smartphone
 } from 'lucide-react';
-import Footer from './footer'; 
+import Footer from './Footer'; 
 
 const ReadMore3 = () => {
   const [activeFAQ, setActiveFAQ] = useState(null);
