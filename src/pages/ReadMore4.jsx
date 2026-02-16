@@ -195,7 +195,7 @@ import {
   Twitter, 
   ArrowRight
 } from 'lucide-react';
-import Footer from './footer'; 
+import Footer from './Footer'; 
 
 const ReadMore4 = () => {
   const [activeFAQ, setActiveFAQ] = useState(null);
